@@ -1,1 +1,1 @@
-FROM asingh3/mycoolrepo:1.0.0
+FROM asingh3/mycoolrepo:v1.0.1
